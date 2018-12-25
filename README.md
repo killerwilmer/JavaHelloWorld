@@ -1,2 +1,2 @@
 # JavaHelloWorld
-Example Jenkins
+Example Jenkins Git
